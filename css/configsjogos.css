@@ -1,0 +1,76 @@
+.jogo{
+	position: relative;
+	background-color: white;
+	border-radius: 8px;
+	display: inline-flex;
+	width: 22.5% ;
+	height: 23% ;
+	top: 15px;
+	left: 18px;
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	
+}
+
+#jogoimg{
+	position: absolute;
+	width: 65%;
+	height: 65%;
+	top: 42px;
+	left: 19%;
+	border-radius: 5px;
+
+}
+
+#jogonintendoimg{
+	position: absolute;
+	width: 60%;
+	height: 50%;
+	top: 60px;
+	left: 21%;
+	border-radius: 5px;
+
+}
+
+#jogoplaystationimg{
+	position: absolute;
+	width: 60%;
+	height: 67%;
+	top: 40px;
+	left: 21%;
+	border-radius: 5px;
+
+}
+
+.titulojogos{
+	position: absolute;
+	font: 15px "trebouchet MS", Arial;
+	font-weight: bold;
+	top: 5px;
+	left: 10px;
+}
+
+.precojogos{
+	font: 22px "trebouchet MS", Arial;
+	font-weight: bold;
+	position: absolute;
+	color: red;
+	bottom: 10px;
+	left: 23%;
+	border-radius: 5px;
+
+
+}
+
+.fundojogos{
+	border-radius: 10px;
+	position: absolute;
+	background-color: #DCDCDC;
+	height: 1100px;
+	top: 33%;
+	left: 22%;
+	width: 74%;
+	z-index: 1;
+}

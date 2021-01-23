@@ -1,0 +1,84 @@
+*{
+	color: black;
+}
+
+.fundotela{
+	border-radius: 10px;
+	position: absolute;
+	background-color: white;
+	height: 119.5%;
+	top: 33%;
+	left: 22%;
+	width: 74%;
+	z-index: 1;
+}
+
+
+#tituloaba{
+	position: absolute;
+	top: 100px;
+	left: 400px;
+	font: 36px "trebouchet MS", Arial;
+	font-weight: bold;
+}
+
+#txthist{
+	color:#676767;
+	position: absolute;
+	top: 200px;
+	left: 50px;
+	right: 50px;
+	font: 24px "trebouchet MS", Arial;
+	line-height: 40px;
+}
+
+
+#txtcontato{
+	color:#676767;
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	font: 22px "trebouchet MS", Arial;
+	line-height: 40px;
+}
+
+#msg{
+	color: red;
+	position: absolute;
+	top: 270px;
+	left: 130px;
+	font: 10px "trebouchet MS", Arial;
+	line-height: 10px;
+}
+
+#mapaimg{
+	position: absolute;
+	top: 160px;
+	left: 9%;
+}
+.titulolocal{
+	position: absolute;
+	top: 90px;
+	left: 400px;
+	font: 36px "trebouchet MS", Arial;
+	font-weight: bold;
+
+}
+.textolocal{
+	position: absolute;
+	bottom: 80px;
+	left: 120px;
+	font: 16px "trebouchet MS", Arial;
+	font-weight: bold;
+
+}
+
+#textoinformacoes{
+	position: absolute;
+	top: 180px;
+	left: 120px;
+	font: 16px "trebouchet MS", Arial;
+	font-weight: bold;
+
+}
+

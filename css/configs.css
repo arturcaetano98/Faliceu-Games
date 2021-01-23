@@ -1,0 +1,43 @@
+.titulo{ 
+	position: absolute;
+	font-size: 40px; 
+	font-weight: bold; 
+	top: 3%;
+	left: 2.5%;
+}
+
+.desc{
+	position: absolute;
+	bottom:10%;
+	font-size: 20px;
+	line-height: 20%;
+	left:15%;
+} 
+
+.preco{
+	position: absolute;
+	bottom: 4%;
+	font-size: 25px;
+	font-weight: bold;
+	color : #64769C;
+	left: 15%;
+}
+
+.precoparc{
+	position: absolute;
+	bottom: 5%;
+	font-size: 12px;
+	font-weight: bold;
+	color : red;
+	right: 25%;
+}
+
+
+#produtoimg{
+	position: absolute;
+	height: 55%;
+	width: 55%;
+	top: 15%;
+	left: 25%;
+}
+		
